@@ -5,11 +5,11 @@ body {
 }
 .menu {
   background-color: burlywood;
-  padding: 30px;
-  max-width: 650px;
+  padding: 20px;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 80%;
 }
 h1,
 h2,
@@ -21,7 +21,7 @@ h2 {
   font-family: Impact, serif;
 }
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -35,7 +35,7 @@ hr {
   height: 2px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 30px;
 }
 img {
   margin-left: auto;
