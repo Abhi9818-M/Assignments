@@ -17,7 +17,7 @@ section {
 .red1 {
   width: 25%;
   background-image: linear-gradient(
-    rgba(255, 0, 0, 1),
+    rgba(255, 0, 0, 2),
     rgba(255, 0, 0, 0.5),
     rgba(255, 0, 0, 1)
   );
